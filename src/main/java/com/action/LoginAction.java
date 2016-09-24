@@ -1,4 +1,4 @@
-package com;
+package com.action;
 
 /**
  * Created by IntelliJ IDEA.
